@@ -28,7 +28,7 @@ body {
 .card-image {
     background: hsl(178, 100%, 50%);
     border-radius: 0.625rem;
-    height: 332px;
+    height: 250px;
     position: relative;
 }
 .card-image:hover img:first-child {
