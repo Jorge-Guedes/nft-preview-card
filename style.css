@@ -28,7 +28,7 @@ body {
 .card-image {
     background: hsl(178, 100%, 50%);
     border-radius: 0.625rem;
-    height: 255px;
+    height: 332px;
     position: relative;
 }
 .card-image:hover img:first-child {
@@ -55,7 +55,7 @@ body {
 .card .title a {
     display: block;
     color: hsl(0, 0%, 100%);
-    margin: 1.25rem 0;
+    margin: 1rem 0;
 }
 .card .title a:hover {
     color: hsl(178, 100%, 50%);
@@ -82,8 +82,8 @@ body {
 }
 .footer {
     border-top: 1px solid hsla(229, 51%, 77%, 0.2);
-    margin-top: 0.9375rem;
-    padding-top: 0.9375rem;
+    margin-top: 0.7rem;
+    padding-top: 0.7rem;
     display: flex;
     align-items: center;
     color: hsla(229, 51%, 77%, 0.7);
