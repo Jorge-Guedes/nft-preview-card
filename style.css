@@ -26,7 +26,6 @@ body {
     flex-direction: column;
 }
 .card-image {
-    background: hsl(178, 100%, 50%);
     border-radius: 0.625rem;
     height: 250px;
     position: relative;
